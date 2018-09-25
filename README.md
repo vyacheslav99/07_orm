@@ -1,2 +1,4 @@
-# 07_orm (Django)
-Урок 07 Django проект
+﻿# 07_orm (Django)
+Django проект
+
+Полноценный web-сервис на django
